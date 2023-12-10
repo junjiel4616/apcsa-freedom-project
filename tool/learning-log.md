@@ -31,6 +31,21 @@ Started to design a unique player character
 - Added player Character
 - Added behavior for player character (conditions + events)
 - Added Death + Respawn
+
+12/04/23:
+* Explored Videos on Gdevelop Youtube
+- [Platformer part 1](https://www.youtube.com/watch?v=eU0kkLSdw0Y&list=PL3YlZTdKiS88iYgcne_mR-Gyhp288zeir&ab_channel=GDevelop)
+- Started following basics for creating a platformer on GDevelop
+- Used some of the tips toward my already existing project
+- Learned character interactions with enviornment
+- Learned to change collision mask
+
+12/10/23:
+* Further explored videos on Gdevelop Youtube
+- [Platformer part 2](https://www.youtube.com/watch?v=Li4vhL1bXLc&list=PL3YlZTdKiS88iYgcne_mR-Gyhp288zeir&index=2&ab_channel=GDevelop)
+- Learned about enemy creation
+- Learned to initialize death of enemy
+- Brainstorm on if enemy should be added to my game
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
