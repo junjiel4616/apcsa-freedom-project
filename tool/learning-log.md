@@ -46,6 +46,19 @@ Started to design a unique player character
 - Learned about enemy creation
 - Learned to initialize death of enemy
 - Brainstorm on if enemy should be added to my game
+
+12/11/23:
+* Just looked at other existing platformer games to try and get inspiration
+- [Little Devil](https://gd.games/kitjenson/little-devils)
+- [Soulpath](https://gd.games/oxygenchick/soulpath)
+- [Fungi Run](https://gd.games/shehan/fungirun)
+
+12/16/23:
+* Figuring out enemies
+- Wondered if I should have one big boss or should just have multiple small enemies
+- Watched a YouTube video on Cuphead to see if I could get inspiration from bosses [Cuphead](https://youtu.be/s7-VBYNB2Rs?si=KsXDCytfl8lVnptG)
+- Probably going to try implementing a main boss instead of multiple enemies
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
