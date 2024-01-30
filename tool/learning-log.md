@@ -59,6 +59,16 @@ Started to design a unique player character
 - Watched a YouTube video on Cuphead to see if I could get inspiration from bosses [Cuphead](https://youtu.be/s7-VBYNB2Rs?si=KsXDCytfl8lVnptG)
 - Probably going to try implementing a main boss instead of multiple enemies
 
+01/27/24
+* Started creation on enemy
+- Followed video by GDevelop's offical youtube [AI Enemy](https://youtu.be/0aGBYsrGwm0?si=6PN7L1inN6hk6rEb)
+- Dove into another option for enemy [Enemy that follows](https://youtu.be/DyEf4E_myUk?si=KtJLXPUL0TYqdXsc)
+
+01/29/24
+* Player Melee Combat
+- Figuring out how to make player deal damage to enemies [Melee Combat](https://youtu.be/ZjxWwf7RslU?si=-2Ng0_LcMdp3VDbi)
+- Just wondering if I should actually include melee combat or should I have it more as a stealth game in which its mainly about running and hiding
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
