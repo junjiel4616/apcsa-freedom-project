@@ -75,6 +75,7 @@ Started to design a unique player character
 - Is it possible to make the enemy target you when your in sight?
 
 03/03/24
+* HP
 - Tried testing health by letting player get hit
 - Added hit points for player
 - Probably add hit points for enemy later on when player can fight back
