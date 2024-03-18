@@ -79,6 +79,18 @@ Started to design a unique player character
 - Tried testing health by letting player get hit
 - Added hit points for player
 - Probably add hit points for enemy later on when player can fight back
+
+03/09/24
+* Boss Creation
+- Started to work on the boss of my game with the help of a online tutorial by [JustAGameDeveloper](https://youtu.be/Ld-c0ufLoKk?si=DzWTf5dK635BmdNR)
+- Helpful as it taught the basics of boss movement and the creation of different attacks
+- After watching many GDevelop videos, learned that they are good overall but a lot more hard to understand when it comes to beginners that wants to get into it
+
+03/15/24
+* Player attacks
+- Started to look into the creation of player attacks which allows players to damage the boss
+- Found a helpful [video](https://youtu.be/mckuSpr8vio?si=4enqlbcz4a86PbTI) on offical Gdevelop Youtube Channel
+- Even though it taught how to make a different type of game when compared to platformers, the video still was helpful when it came to the creation of a weapon to the player character
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
