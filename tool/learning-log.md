@@ -69,6 +69,16 @@ Started to design a unique player character
 - Figuring out how to make player deal damage to enemies [Melee Combat](https://youtu.be/ZjxWwf7RslU?si=-2Ng0_LcMdp3VDbi)
 - Just wondering if I should actually include melee combat or should I have it more as a stealth game in which its mainly about running and hiding
 
+03/02/24
+* Enemy
+- Added enemy pathfinding and experimented with enemy in different file
+- Is it possible to make the enemy target you when your in sight?
+
+03/03/24
+* HP
+- Tried testing health by letting player get hit
+- Added hit points for player
+- Probably add hit points for enemy later on when player can fight back
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
